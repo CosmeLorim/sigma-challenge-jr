@@ -1,0 +1,28 @@
+{
+  "name": "sigma-challenge-jr",
+  "version": "0.1.0",
+  "description": "Teste selectivo para Front-End Developer na SIGMA(TJMT) Aprendiz de Jedi",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmeLorim/sigma-challenge-jr.git"
+  },
+  "author": "Cosme da Silva Lorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CosmeLorim/sigma-challenge-jr/issues"
+  },
+  "homepage": "https://github.com/CosmeLorim/sigma-challenge-jr#readme"
+}
