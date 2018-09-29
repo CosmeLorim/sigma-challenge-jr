@@ -5,6 +5,10 @@ Candidato: Cosme da Silva Lorim
 
 Objetivo é criar aplicação Web utilizando a API do TSE (Tribunal Superior Eleitoral) como fonte de dados.
 
+<p align="center">
+  <img src="wireframe.jpeg" alt="Wireframe da funcionalidade" />
+</p>
+
 ## Pré-requisitos
 
   * Node.js 8.12 +
@@ -33,6 +37,9 @@ Objetivo é criar aplicação Web utilizando a API do TSE (Tribunal Superior Ele
   ```
   $ yarn build 
   ```
+
+## Quadro no trello
+  [Processo Seletivo SIGMA(THMT)](https://trello.com/b/CWIzSUcq/processo-seletivo-sigmathmt)
 
 ## Discussões
 
