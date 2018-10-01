@@ -39,7 +39,7 @@ Objetivo é criar aplicação Web utilizando a API do TSE (Tribunal Superior Ele
   ```
 
 ## Quadro no trello
-  [Processo Seletivo SIGMA(THMT)](https://trello.com/b/CWIzSUcq/processo-seletivo-sigmathmt)
+  [Processo Seletivo SIGMA(TJMT)](https://trello.com/b/CWIzSUcq/processo-seletivo-sigmathmt)
 
 ## Discussões
 

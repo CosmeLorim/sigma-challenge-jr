@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 
 import './TableCandidates.css'
 
@@ -98,7 +99,7 @@ export default class TableCandidates extends Component {
     const tableRows = this.state.candidatos.map((candidato, key) =>
         (
           <tr key={key}>
-            <td>{candidato.nomeUrna}</td>
+            <td><Link to={`/candidate/${this.state.unidadeEleitoral.sigla}/${candidato.id}`}>{candidato.nomeUrna}</Link></td>
             <td>{candidato.nomeCompleto}</td>
             <td>{candidato.descricaoSituacao}</td>
             <td>{candidato.nomeColigacao}</td>
