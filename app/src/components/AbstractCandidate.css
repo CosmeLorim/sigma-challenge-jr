@@ -1,0 +1,27 @@
+.container {
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.img-seconday {
+	width: 70%;
+	height: 70%;
+}
+img {
+	border: 4px solid cyan;
+	border-radius: 4px;
+}
+.grid {
+  display: grid;
+}
+.grid-col-2 {
+	grid-template-columns: 1fr 1fr;
+}
+.grid-col-3 {
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.item {
+	margin: 5px;
+	text-align: left;
+	font-size: 1.5em;
+}

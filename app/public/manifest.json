@@ -1,0 +1,15 @@
+{
+  "short_name": "O Desafio - Democraticamente",
+  "name": "Teste selectivo para Front-End Developer na SIGMA(TJMT) Aprendiz de Jedi",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
