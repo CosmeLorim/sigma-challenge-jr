@@ -1,6 +1,6 @@
 {
   "name": "sigma-challenge-jr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Teste selectivo para Front-End Developer na SIGMA(TJMT) Aprendiz de Jedi",
   "main": "index.js",
   "dependencies": {
