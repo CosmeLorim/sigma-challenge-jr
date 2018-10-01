@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+}
+.grid {
+  display: grid;
+}
+.grid-col-2 {
+	grid-template-columns: 1fr 1fr;
+}
+.item {
+	margin: 5px;
+	text-align: center;
+	font-size: 1.5em;
+}
+.bg-green {
+  background-color: rgb(123, 239, 178);
+}
