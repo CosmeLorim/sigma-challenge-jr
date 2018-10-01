@@ -1,11 +1,16 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+
+import ListCandidates from './views/ListCandidates'
+
 
 class App extends Component {
-  render() {
+  render () {
     return (
-      <h1>O Desafio - Democraticamente</h1>
-    );
+      <div>
+        <ListCandidates />
+      </div>
+    )
   }
 }
 
-export default App;
+export default App
