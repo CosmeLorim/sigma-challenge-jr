@@ -6,7 +6,7 @@ Candidato: Cosme da Silva Lorim
 Objetivo é criar aplicação Web utilizando a API do TSE (Tribunal Superior Eleitoral) como fonte de dados.
 
 <p align="center">
-  <img src="wireframe.jpeg" alt="Wireframe da funcionalidade" />
+  <img src="Views.gif" alt="Gif da interface" />
 </p>
 
 ## Pré-requisitos
@@ -31,7 +31,7 @@ Objetivo é criar aplicação Web utilizando a API do TSE (Tribunal Superior Ele
   ```
   * Para iniciar servidor de desenvolvimento
   ```
-  $ yarn dev
+  $ yarn start
   ```
   * Para fazer build para produção
   ```
